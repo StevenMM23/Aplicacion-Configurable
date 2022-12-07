@@ -1,0 +1,52 @@
+[
+  {
+    "Name": "John Wick",
+    "Address": {
+      "Street": "Centennial Dr",
+      "Number": 15,
+      "City": {
+        "Name": "Chicago",
+        "Country": {
+          "Name": "United States",
+          "Code": "USA"
+        }
+      }
+    },
+    "Phones": [
+      {
+        "Name": "Personal",
+        "Number": "282304802"
+      },
+      {
+        "Name": "Work",
+        "Number": "12341235145"
+      }
+    ],
+    "DateOfBirth": "1980-05-17T00:00:00"
+  },
+  {
+    "Name": "Alfred Hitchchok",
+    "Address": {
+      "Street": "Av. Mariscal la Mar",
+      "Number": 15,
+      "City": {
+        "Name": "Las Vegas",
+        "Country": {
+          "Name": "United States",
+          "Code": "USA"
+        }
+      }
+    },
+    "Phones": [
+      {
+        "Name": "Personal",
+        "Number": "282304802"
+      },
+      {
+        "Name": "Work",
+        "Number": "12341235145"
+      }
+    ],
+    "DateOfBirth": "1990-05-17T00:00:00"
+  }
+]
